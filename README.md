@@ -1,0 +1,1 @@
+# Actividad-de-Investigaci-n-y-Programaci-n-2-Modelos-de-Memoria-Compartida-con-OpenMP-y-TBB
